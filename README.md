@@ -2,6 +2,7 @@
 
 This project allows users to upload, interact with, and query PDF documents in real-time. The application is built with React and Ant Design, offering a user-friendly interface and utilizing advanced AI technologies for efficient data retrieval and interaction.
 
+
 ## Project Overview
 
 This platform is designed to facilitate seamless interaction with PDF documents, leveraging AI to enhance user experience and efficiency. Users can upload PDF files, query their content, and receive intelligent responses powered by OpenAI's GPT-3.5 Turbo API and Langchain technologies.
@@ -81,6 +82,7 @@ For more detailed instructions on deployment, refer to the [Create React App dep
 - [OpenAI API Documentation](https://beta.openai.com/docs/)
 
 ## Contributing
+I am currently working as the individual contributor, feel free to connect with me.
 
 Contributions are welcome! Please open an issue or submit a pull request with your improvements.
 
